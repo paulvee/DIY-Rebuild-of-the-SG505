@@ -1,6 +1,8 @@
 This is a repository to hold the relevant information for a DIY rebuild of the Tektronix SG505 sine wave oscillator.
-In a seperate folder, I will put the information and code for the counter display I'm planning to use.
 
-Information will be added after the development of the project has finished.
+The code for the counter display can only be used with the Virtual Studio Code envoronment. If you decide to use the Arduino IDE, you will have to make some changes to the code and libraries.
 
-Details can be found on my Blog here: https://www.paulvdiyblogs.net/2025/03/diy-build-of-tek-sg505.html
+Details about the project can be found on my Blog here:
+https://www.paulvdiyblogs.net/2025/11/the-diy-sg505-mains-power-supply.html
+https://www.paulvdiyblogs.net/2025/09/diy-rebuild-of-tek-sg505-v3.html
+Note thyat there are several more posts for the earlier versions, this can all be found following the links above.
